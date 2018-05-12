@@ -1,4 +1,5 @@
 _repo: Bubu-vom-Montparnasse-Ein-Roman-mit-zwanzig-Holzschnitten-von-Frans-Masereel_47710
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Masereel, Frans
@@ -10,12 +11,17 @@ contributor:
     agent_name: Hoffmann, Camill
     gutenberg_agent_id: '44438'
     url: http://www.gutenberg.org/2009/agents/44438
+covers:
+- cover_type: archival
+  image_path: 47710-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Philippe, Charles-Louis
     gutenberg_agent_id: '44437'
     url: http://www.gutenberg.org/2009/agents/44437
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47710#Bubu-vom-Montparnasse-Ein-Roman-mit-zwanzig-Holzschnitten-von-Frans-Masereel
 gutenberg_issued: '2014-12-20'
 gutenberg_type: Text
 identifiers:
